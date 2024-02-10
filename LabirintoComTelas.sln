@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabirintoComTelas", "LabirintoComTelas.csproj", "{EC0CDBE0-6740-4481-8ADD-71D522C0FA99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0CDBE0-6740-4481-8ADD-71D522C0FA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0CDBE0-6740-4481-8ADD-71D522C0FA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0CDBE0-6740-4481-8ADD-71D522C0FA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0CDBE0-6740-4481-8ADD-71D522C0FA99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25F52B9A-90C9-4B84-BE3B-6132CFCE00D4}
+	EndGlobalSection
+EndGlobal
